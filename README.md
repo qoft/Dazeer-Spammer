@@ -18,11 +18,10 @@ Basic python knowledge
 
 ### Running
 ```batch
-dazeer_venv.bat
-python -m pip install -r requirements.txt
+install.bat
 python main.py
 ```
-**MAKE SURE YOU ARE IN THE VENV**
+**MAKE SURE YOU ARE IN THE VENV WHEN RUNNING**
 
 # kek is a #skid
 #### Used [Aniell4's](http://github.com/Aniell4) scraper for the member scraper for [MassDN](https://github.com/Aniell4/MassDN/blob/main/scrape.py#L51) which I had to improve since he "didnt know what he was doing"
