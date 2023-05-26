@@ -1,5 +1,7 @@
 # Why release source?
 
+#### Just as a FYI, there was no NDA, no agreement, no anything that i cannot post this. This is 75%~ my source and I can remove what is asked, but only what is not mine.
+
 I was just done with the project entirely, i was slaving and only getting 30% of the profits since kek wanted 50% for doing nothing lol (20% went to vantage, the auth we used).
 Honestly kek if ur reading this then ur a bit of a scumbag. You use your money instantly instead of saving it for profit of a product that you own and cant even invest $10 to update it anymore.
 Oh yeah, there was also $300 in the sellix before i left that you claim that you dont have but ofcourse, you kicked me out of the sellix right after i havent talked to you for 5-6 days when i told you that i will be away.
