@@ -6,7 +6,8 @@ I was just done with the project entirely, i was slaving and only getting 30% of
 Honestly kek if ur reading this then ur a bit of a scumbag. You use your money instantly instead of saving it for profit of a product that you own and cant even invest $10 to update it anymore.
 Oh yeah, there was also $300 in the sellix before i left that you claim that you dont have but ofcourse, you kicked me out of the sellix right after i havent talked to you for 5-6 days when i told you that i will be away.
 
-![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/8e541f0f-354f-4258-a80b-661f3ab769d4)
+![cmd_c9snbrQHMG](https://github.com/qoft/Dazeer-Spammer/assets/63415260/22f616c6-1f80-4842-8246-bfe08813d65e)
+
 
 I have 171 commits currently, and kek has only 62. "qoft doesnt carry dazeer" 🤨
 
@@ -27,17 +28,15 @@ python main.py
 
 # kek is a #skid
 #### Used [Aniell4's](http://github.com/Aniell4) scraper for the member scraper for [MassDN](https://github.com/Aniell4/MassDN/blob/main/scrape.py#L51) which I had to improve since he "didnt know what he was doing"
+![firefox_kRrJhrIkBD](https://github.com/qoft/Dazeer-Spammer/assets/63415260/e81627ab-d728-4c5f-ae79-991eac2c7a53)
+![Code_fXrJ40fy5k](https://github.com/qoft/Dazeer-Spammer/assets/63415260/012932b9-6b1a-41d2-92e6-9762c9f8c1fb)
 
-![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/b81c2471-6fae-4fc5-a753-c85562bd03c6)
-![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/81369d6f-1f9e-4237-b402-0dff0ea8992e)
 
 #### danggg cant afford $10 😭
-
-![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/33560afa-cd34-4136-838e-df2402ffe167)
+![Discord_jrFXjrQsR1](https://github.com/qoft/Dazeer-Spammer/assets/63415260/fd91c61e-c3e9-44d5-9668-fbb2434bff3c)
 
 #### but bro can afford a new phone 😳
-
-![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/91aae9ea-3597-40e8-9995-7a6a075313cf)
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/662e4ad7-73f9-498f-ac2b-db346330760e)
 
 #### but bro cant pay auth 😳
 ![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/9d9a128f-9bc8-4c9a-b317-7c350c7dee97)
