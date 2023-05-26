@@ -27,18 +27,20 @@ python main.py
 
 # kek is a #skid
 #### Used [Aniell4's](http://github.com/Aniell4) scraper for the member scraper for [MassDN](https://github.com/Aniell4/MassDN/blob/main/scrape.py#L51) which I had to improve since he "didnt know what he was doing"
-<img src="https://github.com/qoft/Dazeer-Spammer/assets/63415260/b81c2471-6fae-4fc5-a753-c85562bd03c6" width="500" height="500">
-<img src="https://github.com/qoft/Dazeer-Spammer/assets/63415260/81369d6f-1f9e-4237-b402-0dff0ea8992e" width="700" height="500">
 
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/b81c2471-6fae-4fc5-a753-c85562bd03c6)
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/81369d6f-1f9e-4237-b402-0dff0ea8992e)
 
 #### danggg cant afford $10 😭
 
-<img src="https://github.com/qoft/Dazeer-Spammer/assets/63415260/33560afa-cd34-4136-838e-df2402ffe167" width="500" height="500">
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/33560afa-cd34-4136-838e-df2402ffe167)
 
 #### but bro can afford a new phone 😳
 
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/91aae9ea-3597-40e8-9995-7a6a075313cf)
 
-<img src="https://github.com/qoft/Dazeer-Spammer/assets/63415260/91aae9ea-3597-40e8-9995-7a6a075313cf" width="900" height="500">
+#### but bro cant pay auth 😳
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/9d9a128f-9bc8-4c9a-b317-7c350c7dee97)
 
 
 ##### More to come, I got termed so i do not have any screenshots on hand atm, But if you do. open an issue or pull request.
