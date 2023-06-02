@@ -42,8 +42,11 @@ python main.py
 ![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/9d9a128f-9bc8-4c9a-b317-7c350c7dee97)
 
 ### Oh yeah and FYI, this was completly skidded, i know it is and im coming foward about it since its an old project and i dont care about it anymore.
+
 ![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/f836457f-badd-4373-9c12-db34e78c269e)
 
+#### Never said i was harmful myself, but thanks. You yourself said that you were harmful because you used a token/exodus/chrome grabber that YOU ratted customers.
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/12e4c20b-c253-4a71-b02c-eec3c1b46547)
 
 
 ##### More to come, I got termed so i do not have any screenshots on hand atm, But if you do. open an issue or pull request.
