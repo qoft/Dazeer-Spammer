@@ -33,6 +33,9 @@ python main.py
 ![firefox_kRrJhrIkBD](https://github.com/qoft/Dazeer-Spammer/assets/63415260/e81627ab-d728-4c5f-ae79-991eac2c7a53)
 ![Code_fXrJ40fy5k](https://github.com/qoft/Dazeer-Spammer/assets/63415260/012932b9-6b1a-41d2-92e6-9762c9f8c1fb)
 
+#### 4.0 beta looks fire...
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/a84dc64d-43c7-4c8b-b6f7-b57e948b8996)
+
 
 #### danggg cant afford $10 😭
 ![Discord_jrFXjrQsR1](https://github.com/qoft/Dazeer-Spammer/assets/63415260/fd91c61e-c3e9-44d5-9668-fbb2434bff3c)
