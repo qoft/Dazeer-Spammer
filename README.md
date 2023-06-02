@@ -6,6 +6,8 @@ I was just done with the project entirely, i was slaving and only getting 30% of
 Honestly kek if ur reading this then ur a bit of a scumbag. You use your money instantly instead of saving it for profit of a product that you own and cant even invest $10 to update it anymore.
 Oh yeah, there was also $300 in the sellix before i left that you claim that you dont have but ofcourse, you kicked me out of the sellix right after i havent talked to you for 5-6 days when i told you that i will be away.
 
+btw he rats customers/non-users for the exodus/discord token/chrome if he just doesnt like you
+
 ![cmd_c9snbrQHMG](https://github.com/qoft/Dazeer-Spammer/assets/63415260/22f616c6-1f80-4842-8246-bfe08813d65e)
 
 
