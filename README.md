@@ -53,6 +53,9 @@ python main.py
 #### Never said i was harmful myself, but thanks. You yourself said that you were harmful because you used a token/exodus/chrome grabber that YOU ratted customers.
 ![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/12e4c20b-c253-4a71-b02c-eec3c1b46547)
 
+#### Scamming customers 😳
+![image](https://github.com/qoft/Dazeer-Spammer/assets/63415260/ebee9f96-c38b-4ef5-adfe-230ed5aedec5)
+
 
 ##### More to come, I got termed so i do not have any screenshots on hand atm, But if you do. open an issue or pull request.
 
