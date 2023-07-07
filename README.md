@@ -13,6 +13,10 @@ btw he rats customers/non-users for the exodus/discord token/chrome if he just d
 
 I have 171 commits currently, and kek has only 62. "qoft doesnt carry dazeer" 🤨
 
+## Extra info
+
+Zex (https://t.me/temperatuur) is not related to this at all, he is fine.
+
 # Installation
 ### Requirements
 A [Brain](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/brain)
