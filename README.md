@@ -17,6 +17,8 @@ I have 171 commits currently, and kek has only 62. "qoft doesnt carry dazeer" ðŸ
 
 Zex (https://t.me/temperatuur) is not related to this at all, he is fine.
 
+This project is NOT my best work. Do not judge me on my ability to code on this.
+
 # Installation
 ### Requirements
 A [Brain](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/brain)
